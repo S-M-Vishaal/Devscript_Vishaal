@@ -3,50 +3,50 @@ word_list = [
  'be' ,
  'of'
  'an'
- a
- to
- intro
- he
- have
- it
- that
- hello
- they
- I
- without
- ask
- note
- on
- she
- at
- by
- this
- we
- you
- do
- but
- frost
- old
- which
- one
- would
- alter
- will
- there
- say
- who
- make
- when
- can
- more
- icon
- no
- man
- out
- other
- so
- what
- time
- up
- go
+ 'hell'
+ 'to' ,
+ 'intro' ,
+ 'he' ,
+ 'have' ,
+ 'it' ,
+ 'that' ,
+ 'hello' ,
+ 'they' ,
+ 'I' ,
+ 'without' ,
+ 'ask' ,
+ 'note' ,
+ 'on' ,
+ 'she' ,
+ 'at' ,
+ 'by' ,
+ 'this' ,
+ 'we' ,
+ 'you' ,
+ 'do' ,
+ 'but' ,
+ 'frost' ,
+ 'old' ,
+ 'which' ,
+ 'one' ,
+ 'would' ,
+ 'alter' ,
+ 'will' ,
+ 'there' ,
+ 'say' ,
+ 'who' ,
+ 'make' ,
+ 'when' ,
+ 'can' ,
+ 'more' ,
+ 'icon' ,
+ 'no' ,
+ 'man' ,
+ 'out' ,
+ 'other' ,
+ 'so' ,
+ 'what' ,
+ 'time' ,
+ 'up' ,
+ 'go'
 ]
